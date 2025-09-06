@@ -1,0 +1,48 @@
+# Python cache / bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Datasets
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Model checkpoints / large files
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.joblib
+*.pkl
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+
+# Build / dist
+build/
+dist/
+*.egg-info/
